@@ -1,4 +1,4 @@
-# bootcamp_database_experience_dio
+# Bootcamp database experience DIO
 Repositório para ser utilizado no bootcamp database experience da DIO
 
 # Alguns conceitos
